@@ -10,6 +10,7 @@ __pycache__/
 build/
 dist/
 .DS_Store
-.env
 *.log
 artifacts/
+config.bat
+node_modules
